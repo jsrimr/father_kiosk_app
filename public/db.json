@@ -1,0 +1,341 @@
+{
+  "한국어": {
+    "INTJ": {
+      "성격": "분석가형, 용의주도한 전략가\n모든일에 대해 계획을 세우며 상상력이 풍부한 전략가.\n전략적인 사고를 즐깁니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n지적이고 독립적인 배우자를 선호합니다.\n서로의 발전을 존중하고 지지하는 관계를 중요하게 생각합니다.\n감정 표현이 서툴 수 있지만, 진심으로 깊이 사랑합니다.",
+      "유명인": "일론 머스크, 미셸 오바마, 크리스토퍼 놀란"
+    },
+    "INTP": {
+      "성격": "분석가형, 논리적인 사색가\n지식을 끝없이 갈망하는 혁신적인 발명가.\n지적 호기심이 높고 분석적인 사고를 선호합니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n지적 호기심이 풍부하고 유머 감각이 있는 배우자를 선호합니다.\n개인의 자유와 독립성을 존중하는 관계를 중요하게 생각합니다.\n감정 표현이 서툴 수 있지만, 진심으로 헌신합니다.",
+      "유명인": "알베르트 아인슈타인, 마리 퀴리, 빌 게이츠"
+    },
+    "ENTJ": {
+      "성격": "분석가형, 분석가형, 대담한 통솔자\n항상 문제 해결방법을 찾아내는 성격으로 대담하고 상상력이 풍부하며 의지가 강력한 지도자.\n카리스마 넘치고 목표 지향적인 리더입니다.\n추천하는 배우자 유형은 다음과 같습니다.",
+      "배우자": "능력 있고 자신감 넘치는 배우자를 선호합니다.\n함께 목표를 향해 나아가고 서로에게 동기부여가 되는 관계를 중요하게 생각합니다.\n솔직하고 단호하게 감정을 표현합니다",
+      "유명인": "스티브 잡스, 프랭클린 D. 루스벨트, 마가렛 대처"
+    },
+    "ENTP": {
+      "성격": "분석가형, 뜨거운 논쟁을 즐기는 변론가\n지적 도전을 즐기는 영리하고 호기심이 많은 사색가.\n창의적이고 도전적인 문제 해결 능력을 갖추고 있습니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n창의적이고 유머 감각이 뛰어난 배우자를 선호합니다.\n새로운 경험을 함께 즐기고 지적 자극을 주는 관계를 중요하게 생각합니다.\n재치 있고 능숙하게 감정을 표현합니다.",
+      "유명인": "토머스 에디슨, 레오나르도 다빈치, 톰 행크스"
+    },
+    "INFJ": {
+      "성격": "외교형, 선의의 옹호자\n차분하고 신비한 분위기를 풍기는 성격으로 다른사람에게 의욕을 불어넣어 주는 이상주의자.\n이상주의적이고 통찰력이 뛰어나며 타인을 돕는 데 헌신적입니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n깊은 내면을 공유하고 진실한 관계를 추구하는 배우자를 선호합니다.\n서로의 가치관과 이상을 존중하고 지지하는 관계를 중요하게 생각합니다.\n따뜻하고 세심하게 감정을 표현합니다",
+      "유명인": "마틴 루터 킹 주니어, 테레사 수녀, 넬슨 만델라"
+    },
+    "INFP": {
+      "성격": "외교형, 열정적인 중재자\n항상 선을 행할 준비가 되어 있는 부드럽고 친절한 이타주의자.\n창의적이고 이상주의적이며 자신의 가치관을 중요하게 생각합니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n따뜻하고 이해심 많은 배우자를 선호합니다.\n서로의 감정을 공유하고 공감하는 관계를 중요하게 생각합니다.\n진솔하고 감성적으로 감정을 표현합니다.",
+      "유명인": ""
+    },
+    "ENFJ": {
+      "성격": "외교형, 정의로운 사회운동가\n청중을 사로잡고 의욕을 불어넣는 카리스마 넘치는 지도자.\n사교적이고 카리스마 넘치며 타인에게 영감을 주는 데 능숙합니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n사교적이고 배려심 많은 배우자를 선호합니다.\n함께 사회에 기여하고 의미 있는 관계를 만들어가는 것을 중요하게 생각합니다.\n열정적이고 적극적으로 감정을 표현합니다",
+      "유명인": ""
+    },
+    "ENFP": {
+      "성격": "외교형, 재기발랄한 활동가\n열정적이고 창의적인 성격으로 긍정적으로 삶을 바라보는 사교적이면서도 자유로운 영혼.\n활발하고 창의적이며 새로운 가능성을 탐구하는 것을 좋아합니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n창의적이고 열정적인 배우자를 선호합니다.\n함께 즐거운 시간을 보내고 새로운 가능성을 탐구하는 관계를 중요하게 생각합니다.\n솔직하고 활발하게 감정을 표현합니다.",
+      "유명인": ""
+    },
+    "ISTJ": {
+      "성격": "관리자형, 청렴결백한 논리주의자\n사실을 중시하는 믿음직한 현실주의자.\n책임감이 강하고 현실적이며 체계적인 것을 선호합니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n성실하고 책임감 강한 배우자를 선호합니다.\n안정적이고 예측 가능한 관계를 중요하게 생각합니다.\n신중하고 진중하게 감정을 표현합니다.",
+      "유명인": ""
+    },
+    "ISFJ": {
+      "성격": "관리자형, 용감한 수호자\n주변사람을 보호할 준비가 되어 있는 헌신적이고 따뜻한 스타일\n헌신적이고 따뜻하며 타인을 세심하게 배려합니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n따뜻하고 헌신적인 배우자를 선호합니다.\n서로를 돌보고 챙기는 안정적인 관계를 중요하게 생각합니다.\n따뜻하고 세심하게 감정을 표현합니다.",
+      "유명인": ""
+    },
+    "ESTJ": {
+      "성격": "관리자형, 엄격한 관리자\n사물과 사람을 관리하는 데 뛰어난 능력을 가진 경영자\n현실적이고 조직적이며 리더십 능력이 뛰어납니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n능력 있고 책임감 강한 배우자를 선호합니다.\n함께 목표를 달성하고 안정적인 가정을 꾸리는 것을 중요하게 생각합니다.\n솔직하고 단호하게 감정을 표현합니다.",
+      "유명인": ""
+    },
+    "ESFJ": {
+      "성격": "관리자형, 사교적인 외교관\n배려심이 넘치고 항상 다른 사람들을 도울 준비가 되어 있는 성격적으로 인기가 많고 사교성 높은 마당발.\n사교적이고 협력적이며 타인을 돕는 데 열정적입니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n사교적이고 배려심 많은 배우자를 선호합니다.\n화목하고 안정적인 가정을 꾸리는 것을 중요하게 생각합니다.\n따뜻하고 적극적으로 감정을 표현합니다.",
+      "유명인": ""
+    },
+    "ISTP": {
+      "성격": "탐험가형, 만능 재주꾼\n대담하면서도 현실적인 성격, 모든 종류의 도구를 자유자재로 다루며, 손재주가 뛰어나고\n현실적인 문제 해결 능력을 갖추고 있습니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n독립적이고 자유로운 배우자를 선호합니다.\n함께 새로운 경험을 즐기고 모험을 떠나는 관계를 중요하게 생각합니다.\n쿨하고 절제된 방식으로 감정을 표현합니다.",
+      "유명인": ""
+    },
+    "ISFP": {
+      "성격": "탐험가형, 호기심 많은 예술가\n항상 새로운 경험을 추구하는 유연하고 매력이넘침,\n예술적인 재능이 뛰어나고 자유로운 영혼을 가지고 있습니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n따뜻하고 감성적인 배우자를 선호합니다.\n서로의 감정을 공유하고 예술적인 경험을 함께 즐기는 관계를 중요하게 생각합니다.\n섬세하고 감성적으로 감정을 표현합니다.",
+      "유명인": ""
+    },
+    "ESTP": {
+      "성격": "탐험가형, 모험을 즐기는 사업가\n즉흥적이고 넘치는 에너지와 열정으로 주변사람을 즐겁게하며,\n활동적이고 현실적이며 뛰어난 적응력을 가지고 있습니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n활발하고 재미있는 배우자를 선호합니다.\n함께 즐거운 시간을 보내고 새로운 경험을 즐기는 관계를 중요하게 생각합니다.\n솔직하고 능숙하게 감정을 표현합니다.",
+      "유명인": "어니스트 헤밍웨이, 마돈나, 잭 니콜슨"
+    },
+    "ESFP": {
+      "성격": "탐험가형, 자유로운 영혼의 연예인\n위험을 기꺼이 감수하는 성격으로 영리하고 에너지가 넘치며 관찰력이 뛰어난 사업가.\n사교적이고 활발하며 주변 사람들에게 즐거움을 주는 것을 좋아합니다.",
+      "배우자": "추천하는 배우자 유형은 다음과 같습니다.\n사교적이고 긍정적인 배우자를 선호합니다.\n함께 즐거운 시간을 보내고 인생을 즐기는 관계를 중요하게 생각합니다.\n솔직하고 열정적으로 감정을 표현합니다.",
+      "유명인": "먼로, 엘비스 프레슬리, 엘튼 존"
+    },
+    "$mbti지표": {
+      "결과": "당신의 AI-MBTI는 ${mbti지표}입니다~"
+    }
+  },
+  "영어": {
+    "INTJ": {
+      "성격": " Analyst, a thoughtful strategist\n A strategist who plans everything and has a rich imagination.\n Enjoys strategic thinking.",
+      "배우자": " The recommended spouse types are as follows:\n Prefers an intellectual and independent spouse.\n Values ​​a relationship that respects and supports each other’s development.\n May be awkward in expressing emotions, but loves deeply and sincerely.",
+      "유명인": "Elon Musk, Michelle Obama, Christopher Nolan"
+    },
+    "INTP": {
+      "성격": " Analyst, a logical thinker\n An innovative inventor with an endless thirst for knowledge.\n Highly intellectually curious and prefers analytical thinking.",
+      "배우자": " The recommended spouse types are as follows:\n Prefers a spouse with a rich intellectual curiosity and a sense of humor.  Values ​​relationships that respect individual freedom and independence.\n May be awkward in expressing emotions, but are truly committed.",
+      "유명인": "Albert Einstein, Marie Curie, Bill Gates"
+    },
+    "ENTJ": {
+      "성격": " Analyst, Analyst, Bold Leader\n A bold, imaginative, and strong-willed leader who always finds a way to solve problems.\n A charismatic and goal-oriented leader.",
+      "배우자": " Recommended partner types include:\n Prefer a partner who is creative and has a great sense of humor.\n Values ​​a relationship where they enjoy new experiences together and are intellectually stimulating.\n Expresses their emotions wittily and skillfully.",
+      "유명인": "Steve Jobs, Franklin D. Roosevelt, Margaret Thatcher"
+    },
+    "ENTP": {
+      "성격": " Analyst, Debator who enjoys heated debate\n A smart and curious thinker who enjoys intellectual challenges.  Have creative and challenging problem-solving skills.",
+      "유명인": "Famous people of this type: Thomas Edison, Leonardo da Vinci, Tom Hanks"
+    },
+    "INFJ": {
+      "성격": " Diplomatic, advocate for the good\n A calm and mysterious personality who inspires others with an idealistic spirit.\n Idealistic, insightful, and dedicated to helping others.",
+      "배우자": " Recommended partner types include:\n Prefers a partner who shares their inner selves and seeks a genuine relationship.\n Values ​​a relationship where each other’s values ​​and ideals are respected and supported.\n Expresses emotions warmly and sensitively.",
+      "유명인": "Martin Luther King Jr., Mother Teresa, Nelson Mandela"
+    },
+    "INFP": {
+      "성격": " Diplomatic, Passionate Mediator\n Gentle and kind altruist who is always ready to do good.\n Creative, idealistic, and values ​​their own values.",
+      "배우자": " Recommended partner types:\n Prefer a warm and understanding partner.\n Value relationships where you can share and empathize with each other's feelings.\n Express emotions sincerely and emotionally.",
+      "유명인": "Johnny Depp, William Shakespeare, Vincent van Gogh"
+    },
+    "ENFJ": {
+      "성격": " Diplomatic, Righteous Social Activist\n Charismatic leader who captivates and inspires audiences.\n Sociable, charismatic, and good at inspiring others.",
+      "배우자": " Recommended partner types:  Prefer a sociable and caring partner.\n Values ​​contributing to society together and creating meaningful relationships.\n Expresses emotions passionately and actively.",
+      "유명인": "Oprah Winfrey, Barack Obama, Jennifer Lawrence"
+    },
+    "ENFP": {
+      "성격": " Diplomatic, vivacious activist\n Passionate and creative personality with a positive outlook on life.\n Active, creative, and free-spirited.\n Likes to explore new possibilities.",
+      "배우자": " Recommended partner types:\n Prefer a creative and passionate partner.\n Values ​​a relationship where you have fun together and explore new possibilities.\n Expresses emotions honestly and actively.",
+      "유명인": "Robert Downey Jr., Tom Hanks, Jim Carrey"
+    },
+    "ISTJ": {
+      "성격": " Administrative, honest and logical\n Fact-oriented and reliable realist. \nPrefers a strong sense of responsibility, reality, and structure.",
+      "배우자": " Recommended spouse types include:\n Prefers a spouse who is honest and responsible.\n Values ​​a stable and predictable relationship.\n Expresses emotions carefully and seriously.",
+      "유명인": "“Angela Merkel, Warren Buffett, Denzel Washington"
+    },
+    "ISFJ": {
+      "성격": " Administrative, courageous protector\n Dedicated and warm style, ready to protect those around you\n Dedicated, warm, and considerate of others.",
+      "배우자": " Recommended spouse types include:\n Prefers a warm and devoted spouse.\n Values ​​a stable relationship where they care for and look after each other.\n Expresses emotions warmly and carefully. ",
+      "유명인": "Beyonce, Elvis Presley, Anne Hathaway"
+    },
+    "ESTJ": {
+      "성격": " Managerial, strict manager\n An executive with excellent ability to manage things and people\n Realistic, organized, and has excellent leadership skills.",
+      "배우자": " Recommended spouse types are:\n Prefer a capable and responsible spouse.\n Value achieving goals together and building a stable family.\n Expresses feelings honestly and firmly.",
+      "유명인": "Franklin D. Roosevelt, John D. Rockefeller, James Monroe"
+    },
+    "ESFJ": {
+      "성격": " Managerial, sociable diplomat\n Popular and sociable person with a caring personality who is always ready to help others.\n Sociable, cooperative, and passionate about helping others.",
+      "배우자": " Recommended spouse types are:\n Prefer a sociable and caring spouse.  You value building a harmonious and stable family.\n You express your emotions warmly and actively.",
+      "유명인": "Taylor Swift, Bill Clinton, Jennifer Garner"
+    },
+    "ISTP": {
+      "성격": " Explorer, a jack-of-all-trades\n You have a bold yet realistic personality, are good with all kinds of tools, are good with your hands,\n You have practical problem-solving skills.",
+      "배우자": " Here are some recommended partner types:\n You prefer an independent and free-spirited partner.\n You value a relationship where you enjoy new experiences and go on adventures together.\n You express your emotions in a cool and controlled way.",
+      "유명인": "Michael Jordan, Clint Eastwood, Tom Cruise"
+    },
+    "ISFP": {
+      "성격": " Explorer, a curious artist\n You are flexible and charming, always seeking new experiences,\n You have great artistic talent, and are a free spirit.",
+      "배우자": " Here are some recommended partner types:  Prefer a warm and emotional partner.\n Value relationships where you can share your emotions and enjoy artistic experiences together.\n Express your emotions delicately and emotionally.",
+      "유명인": "Michael Jackson, David Beckham, Brad Pitt"
+    },
+    "ESTP": {
+      "성격": " Explorer, adventurous businessman\n Enjoys the company of others with spontaneous energy and passion,\n Active, realistic, and highly adaptable.",
+      "배우자": " Recommended partner types are:\n Prefer an active and fun partner.\n Value relationships where you can have fun together and enjoy new experiences.\n Expresses emotions honestly and skillfully.",
+      "유명인": "Ernest Hemingway, Madonna, Jack Nicholson"
+    },
+    "ESFP": {
+      "성격": " Explorer, free-spirited entertainer\n Smart, energetic, and observant businessman with a risk-taking personality.  Sociable, active, and enjoys giving pleasure to those around them.",
+      "배우자": " Recommended partner types include:\n Prefer a sociable and positive partner.\n Value relationships where you have fun together and enjoy life.\n Express your feelings honestly and passionately.",
+      "유명인": "Marilyn Monroe, Elvis Presley, Elton John"
+    },
+    "$mbti지표": {
+      "결과": "Your AI-MBTI is ${mbti지표}~"
+    }
+  },
+  "중국어": {
+    "INTJ": {
+      "성격": " 分析师，勇敢的战略家\n 一位富有想象力的战略家，计划好一切。\n 享受战略思考。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢聪明、独立的配偶。\n 我们重视相互尊重和支持彼此发展的关系。\n 我可能不善于表达自己的感情，但我真的深爱你。",
+      "유명인": " 此类名人：伊隆·马斯克、米歇尔·奥巴马、克里斯托弗·诺兰"
+    },
+    "INTP": {
+      "성격": " 分析师、逻辑思考者\n 一位对知识有着无尽渴望的创新型发明家。\n 具有高度的好奇心和分析性思维倾向。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢有求知欲和幽默感的配偶。\n 我们重视尊重个人自由和独立的关系。\n 他可能不善于表达自己的感情，但他确实很投入。",
+      "유명인": " 此类名人：阿尔伯特·爱因斯坦、玛丽·居里、比尔·盖茨"
+    },
+    "ENTJ": {
+      "성격": " 分析师，分析师，大胆的领导者\n 一位大胆、富有想象力且意志坚强的领导者，总能找到解决问题的方法。\n 一位富有魅力且目标明确的领导者。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢有能力、有信心的配偶。\n 我们重视共同努力实现目标并相互激励的关系。\n 诚实而坚定地表达你的感受",
+      "유명인": " 此类名人：史蒂夫·乔布斯、富兰克林·罗斯福、玛格丽特·撒切尔"
+    },
+    "ENTP": {
+      "성격": " 分析家、辩论家，喜欢激烈的辩论\n 聪明、好奇、喜欢智力挑战的思想家。\n 拥有创造性和挑战性的解决问题的能力。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢有创造力并且有幽默感的配偶。\n 我重视那些能让我共同享受新体验并提供智力刺激的关系。\n 巧妙、熟练地表达情感。",
+      "유명인": " 此类名人：托马斯·爱迪生、列奥纳多达芬奇、汤姆·汉克斯"
+    },
+    "INFJ": {
+      "성격": " 外交上善意的倡导者\n 一位具有冷静而神秘的个性、能够激励他人的理想主义者。\n 理想主义，富有洞察力，乐于助人。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢能分享内心自我、追求真诚关系的伴侣。\n 我们重视尊重和支持彼此价值观和理想的关系。\n 热情而敏感地表达你的感受。",
+      "유명인": " 此类名人：马丁·路德·金、特蕾莎修女、纳尔逊·曼德拉"
+    },
+    "INFP": {
+      "성격": " 善于外交、充满热情的调解员\n 一位温柔善良的利他主义者，随时准备做好事。\n 富有创造力、理想主义、重视自身的价值观。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢热情、善解人意的配偶。\n 我重视彼此分享和理解彼此感受的关系。\n 真诚而动情地表达你的感受。",
+      "유명인": " 此类名人：约翰尼·德普、威廉·莎士比亚、文森特·梵高"
+    },
+    "ENFJ": {
+      "성격": " 外交家、正义的社会活动家\n 一位具有超凡魅力的领导者，能够吸引并激励他的听众。\n 善于社交，富有魅力，善于激励他人。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢善于交际、体贴的配偶。\n 我们重视共同为社会做出贡献并建立有意义的关系。\n 热情而积极地表达你的情绪",
+      "유명인": " 此类名人：奥普拉·温弗瑞、巴拉克·奥巴马、詹妮弗·劳伦斯"
+    },
+    "ENFP": {
+      "성격": " 外交家、活跃的活动家\n具有善于交际和自由的精神，对生活有积极的看法，具有热情和创造力的个性。\n 活跃、富有创造力并喜欢探索新的可能性。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢有创造力和热情的配偶。\n 我们重视共同享受乐趣和探索新可能性的关系。\n 诚实、积极地表达你的感受。",
+      "유명인": " 此类名人：小罗伯特·唐尼、汤姆·汉克斯、金·凯瑞"
+    },
+    "ISTJ": {
+      "성격": " 管理型，诚实且有逻辑性\n 一个值得信赖、重视事实的现实主义者。\n 注重责任感、实用性和系统性的方法。",
+      "배우자": " 推荐的配偶类型如下：\n 我喜欢诚实、负责的配偶。\n 我们重视稳定和可预测的关系。\n 认真、认真地表达你的感受。",
+      "유명인": " 此类名人：安格拉·默克尔、沃伦·巴菲特、丹泽尔·华盛顿"
+    },
+    "ISFJ": {
+      "성격": " 管理者类型，勇敢的守护者\n 一种专注而温暖的风格，随时准备保护你周围的人。\n 专注、热情、体贴他人。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢热情而忠诚的配偶。\n 我们重视相互照顾、相互关心的稳定关系。\n 热情而敏感地表达你的感受。",
+      "유명인": " 此类名人：碧昂斯、猫王、安妮·海瑟薇"
+    },
+    "ESTJ": {
+      "성격": " 管理型，严格的经理\n 具有出色管理能力的经理\n 务实、有条理，具有出色的领导能力。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢有能力、有责任心的配偶。\n 我们重视共同实现目标并建立稳定的家庭。\n 诚实而坚定地表达你的感受。",
+      "유명인": " 此类名人：富兰克林·罗斯福、约翰·洛克菲勒、詹姆斯·门罗"
+    },
+    "ESFJ": {
+      "성격": " 管理型、善于交际的外交家\n 一位受欢迎且善于交际的\nMadangbal，具有富有爱心的个性，随时准备帮助他人。\n 善于社交、合作、热衷于帮助他人。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢善于交际、体贴的配偶。\n 我认为建立一个和谐稳定的家庭很重要。\n 热情、积极地表达你的情绪。",
+      "유명인": " 名人：泰勒·斯威夫特、比尔·克林顿、詹妮弗·加纳"
+    },
+    "ISTP": {
+      "성격": " 探索型，全能型\n 性格大胆而务实，能熟练运用各种工具，灵巧性极佳\n 拥有切实可行的解决问题的能力。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢独立、自由的配偶。\n 我们重视那些让我们享受新体验并一起冒险的关系。\n 以冷静、克制的方式表达你的情绪。",
+      "유명인": " 此类名人：迈克尔·乔丹、克林特·伊斯特伍德、汤姆·克鲁斯"
+    },
+    "ISFP": {
+      "성격": " 探索型，好奇的艺术家\n 灵活且有魅力，总是寻求新的体验。\n 您具有出色的艺术天赋和自由精神。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢热情、感性的配偶。\n 我们重视彼此分享情感并共同享受艺术体验的关系。\n 表达情感细腻、动人。",
+      "유명인": " 此类名人：迈克尔·杰克逊、大卫·贝克汉姆、布拉德·皮特"
+    },
+    "ESTP": {
+      "성격": " 探险家型，喜欢冒险的商人\n 用自发而洋溢的活力和热情取悦你周围的人，\n 积极、务实、适应能力强。\n 推荐的配偶类型如下：",
+      "배우자": " 喜欢活跃、有趣的伴侣。\n 我们重视一起玩乐和享受新体验的关系。\n 诚实而巧妙地表达你的感受。",
+      "유명인": " 此类名人：欧内斯特·海明威、麦当娜、杰克·尼科尔森"
+    },
+    "ESFP": {
+      "성격": " 探索型，自由奔放的艺人\n 一位聪明、精力充沛、善于观察且具有冒险个性的商人。\n 善于交际、活跃并喜欢为周围的人带来欢乐。",
+      "배우자": " 推荐的配偶类型如下：\n 喜欢善于交际、积极向上的配偶。\n 我珍惜一起度过美好时光并享受生活的关系。\n 真诚而热情地表达你的感受。",
+      "유명인": " 此类名人：玛丽莲·梦露、猫王埃尔维斯·普雷斯利、埃尔顿·约翰"
+    },
+    "$mbti지표": {
+      "결果": "您的 AI-MBTI 是 ${mbti지표} ~"
+    }
+  },
+  "일본어": {
+    "INTJ": {
+      "성격": "アナリスト、容疑主導の戦略家\nすべてのことを計画し、想像力豊かな戦略家。\n戦略的な思考を楽しんでください。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n知的で独立した配偶者を好む。\nお互いの発展を尊重し支持する関係を大切に考えます。\n感情表現が苦手ですが、心から深く愛しています。」 “",
+      "유명인": "イロン・マスク、ミシェル・オバマ、クリストファー驚き"
+    },
+    "INTP": {
+      "성격": "アナリスト、論理的な思索家\n 知識を無限に切望する革新的な発明家。\n知的好奇心が高く、分析的な思考を好む。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n知的好奇心が豊富でユーモアのセンスのある配偶者を好みます。\n 個人の自由と独立性を尊重する関係を大切に考えます。",
+      "유명인": "アルベルト・アインシュタイン、マリー・キュリー、ビル・ゲイツ"
+    },
+    "ENTJ": {
+      "성격": "アナリスト、アナリスト、大胆な統率者\n常に問題解決方法を見つける性格で大胆で想像力が豊富で、意志が強力な指導者。\nカリスマ溢れる目標志向のリーダーです。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n能力があり、自信に満ちた配偶者を好みます。\n 一緒に目標に向かって進み、お互いに動機付けになる関係を大切に考えます。\n率直でしっかりと感情を表現します」 “",
+      "유명인": "スティーブジョブズ、フランクリンD.ルーズベルト、マーガレット対処"
+    },
+    "ENTP": {
+      "성격": "アナリスト、熱い議論を楽しむ弁論家\n知的挑戦を楽しむ巧妙で好奇心旺盛な思索家。\n創造的で挑戦的な問題解決能力を備えています。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n創造的でユーモアのセンスに優れた配偶者を好みます。\n新しい経験を一緒に楽しみ、知的刺激を与える関係を大切に考えます。\n気の利いて上手に感情を表現します。 “",
+      "유명인": "トーマス・エジソン、レオナルド・ダ・ヴィンチ、トム・ハンクス"
+    },
+    "INFJ": {
+      "성격": " 外交型、善意の擁護者",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n 深い内面を共有し、真の関係を追求する配偶者を好む。\nお互いの価値観と理想を尊重し支持する関係を大切に考えます。\n暖かく丁寧に感情を表現 “",
+      "유명인": "マーティン・ルター・キング・ジュニア、テレサ修道女、ネルソン・マンデラ"
+    },
+    "INFP": {
+      "성격": "外交型、情熱的な仲裁人\n常に善を行う準備ができている柔らかくフレンドリーな利他主義者。\n創造的で理想主義的で、自分の価値観を大切にします。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n 暖かく理解できる配偶者を好む。\nお互いの感情を共有し共感する関係を大切にしています。\n真実で感情的に感情を表現します",
+      "유명인": ""
+    },
+    "ENFJ": {
+      "성격": "外交型、正義の社会運動家\n 聴衆を捕らえて意欲を吹き込むカリスマあふれる指導者。\n社交的でカリスマ的で溢れ、他人にインスピレーションを与えるのに堪能です",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n社交的で思いやりのある配偶者を好む。\n一緒に社会に貢献し、意味のある関係を築くことを大切にしています。\n情熱的で積極的に感情を表現する",
+      "유명인": ""
+    },
+    "ENFP": {
+      "성격": "外交型、再起的で若々しい活動家\n情熱的で創造的な性格で肯定的に人生を眺める社交的でありながら自由な魂。\n活発で創造的で新しい可能性を探るのが大好きです。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n創造的で情熱的な配偶者を好む。\n 一緒に楽しい時間を過ごし、新たな可能性を探る関係を大切に考えます。\n率直で活発に感情を表現します。 “",
+      "유명인": ""
+    },
+    "ISTJ": {
+      "성격": " 管理者型、清廉無実の論理主義者\n事実を重視する信頼できる現実主義者。\n責任感が強く、現実的で体系的なものを好む。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n誠実で責任感のある配偶者を好む。\n安定的で予測可能な関係を大切に考えます。\n慎重かつ真剣に感情を表現します。”.",
+      "유명인": ""
+    },
+    "ISFJ": {
+      "성격": " 管理者型、勇敢な守護者\n周辺の人々を保護する準備ができている献身的で暖かいスタイル\n献身的で暖かく、他人を慎重に配慮してください。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n暖かく献身的な配偶者を好む。\nお互いの面倒を見て持ち歩くことは、安定した関係を大切にしています。\n暖かく丁寧に感情を表現します。",
+      "유명인": "ビヨンセ、エルヴィス・プレスリー、アン・ハサウェイ"
+    },
+    "ESTJ": {
+      "성격": " 管理者型、厳格な管理者\n 物事や人を管理するのに優れた能力を持つ経営者\n 現実的で組織的で、リーダーシップ能力に優れています。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n能力と責任感の強い配偶者を好みます。\n 一緒に目標を達成し、安定した仮定を築くことが重要です。\n率直でしっかりと感情を表現します。",
+      "유명인": "フランクリン・D・ルーズベルト、ジョン・D・ロックフェラー、ジェームズ・モンロー"
+    },
+    "ESFJ": {
+      "성격": "管理者型、社交的な外交官\n思いやりが溢れ、常に他人を助ける準備ができている性格的に人気があり、社交性の高い庭の足。\n社交的で協力的で、他人を助けるために情熱的です。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n社交的で思いやりのある配偶者を好む。\n 和やかで安定した家庭を築くことを大切にしています。\n暖かく積極的に感情を表現します。.",
+      "유명인": "テイラー・スウィフト、ビル・クリントン、ジェニファー・ガーナー"
+    },
+    "ISTP": {
+      "성격": "探検家型、万能在住者\n大胆ながらも現実的な性格、あらゆる種類の道具を自由自在に扱い、手のひらに優れている\n現実的な問題解決能力を備えています。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n独立して自由な配偶者を好む。\n 一緒に新しい経験を楽しみ、冒険を離れる関係を大切に考えます。\nクールで切除された方法で感情を表現します。.",
+      "유명인": "マイケル・ジョーダン、クリント・イーストウッド、トム・クルーズ"
+    },
+    "ISFP": {
+      "성격": "探検家型、好奇心旺盛なアーティスト\n常に新しい経験を追求する柔軟で魅力が溢れ、\n芸術的な才能に優れ、自由な魂を持っています。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n暖かく感情的な配偶者を好む。\nお互いの感情を共有し、芸術的な経験を一緒に楽しむ関係を大切にします。.",
+      "유명인": "マイケル・ジャクソン、デビッド・ベッカム、ブラッド・ピット"
+    },
+    "ESTP": {
+      "성격": "探検家型、冒険を楽しむ実業家\n即興的で溢れるエネルギーと情熱で周辺人を楽しませ、\nアクティブで現実的で優れた適応力を持っています。\n推奨される配偶者の種類は次のとおりです。",
+      "배우자": "活発で楽しい配偶者を好む。\n 一緒に楽しい時間を過ごし、新しい経験を楽しむ関係を大切にしています。\n率直で上手に感情を表現します。.",
+      "유명인": "アーネストヘミングウェイ、マドンナ、ジャック・ニコルソン"
+    },
+    "ESFP": {
+      "성격": "探検家型、自由な魂の芸能人\n危険を喜んで監修する性格で賢くエネルギーがあふれ、観察力に優れた実業家\n社交的で活発で、周りの人々に喜びを与えるのが大好きです。",
+      "배우자": "推奨される配偶者の種類は次のとおりです。\n社交的で肯定的な配偶者を好む。\n 一緒に楽しい時間を過ごし、人生を楽しむ関係を大切にしています。\n率直で情熱的に感情を表現します。",
+      "유명인": "モンロー、エルヴィス・プレスリー、エルトン・ジョン"
+    },
+    "$mbti지표": {
+      "결과": "あなたのAI-MBTIは ${mbti지표} です。~"
+    }
+  }
+}
