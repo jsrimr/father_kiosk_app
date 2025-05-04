@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MBTI Kiosk - Capture</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+</head>
+<body class="container text-center p-4" style="background: url('static/images/bg.jpg') no-repeat center center fixed; background-size: cover;">
+  <h1>MBTI Prediction & Aging Effect</h1>
+  <div class="form-group">
+    <label>언어 선택</label>
+    <div id="language-selector" class="d-flex justify-content-center mb-3">
+      <img src="static/images/flag_kr.png" alt="한국어" data-lang="한국어" class="flag-img" style="cursor:pointer; width:48px; margin:0 8px;">
+      <img src="static/images/flag_us.png" alt="영어" data-lang="영어" class="flag-img" style="cursor:pointer; width:48px; margin:0 8px;">
+      <img src="static/images/flag_cn.png" alt="중국어" data-lang="중국어" class="flag-img" style="cursor:pointer; width:48px; margin:0 8px;">
+      <img src="static/images/flag_jp.png" alt="일본어" data-lang="일본어" class="flag-img" style="cursor:pointer; width:48px; margin:0 8px;">
+    </div>
+  </div>
+  <video id="video" width="320" height="240" style="border:1px solid #ddd" autoplay muted playsinline></video>
+  <br>
+  <button id="capture-btn" class="btn btn-primary mt-3">사진 찍기</button>
+  <canvas id="canvas" width="320" height="240" style="display:none"></canvas>
+    <audio id="bg-music" src="static/audio/fast_beat.mp3" autoplay loop></audio>
+    <script>
+    // TTS 안내: 얼굴을 가까이 대고 촬영 요청
+    document.addEventListener('DOMContentLoaded', () => {
+      const instruction = new SpeechSynthesisUtterance('얼굴을 가까이 대고 촬영해 주세요');
+      instruction.lang = 'ko-KR';
+      speechSynthesis.speak(instruction);
+    });
+  </script>
+  <script>
+    const bgMusic = document.getElementById('bg-music');
+    // 페이지 로드 시 이전 재생 위치 복원
+    const savedTime = sessionStorage.getItem('bgMusicTime');
+    if (savedTime) bgMusic.currentTime = parseFloat(savedTime);
+    bgMusic.muted = false;
+    bgMusic.volume = 0.5;
+    bgMusic.play().catch(e => console.warn('오토플레이 차단:', e));
+    // 1초마다 재생 위치 저장
+    setInterval(() => {
+      sessionStorage.setItem('bgMusicTime', bgMusic.currentTime);
+    }, 1000);
+  </script>
+  <script src="script.js"></script>
+</body>
+</html>

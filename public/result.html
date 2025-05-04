@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MBTI Kiosk - Result</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" crossorigin="anonymous" />
+</head>
+<body class="container text-center p-4" style="background: url('static/images/bg.jpg') no-repeat center center fixed; background-size: cover;">
+  <!-- 배경 음악 복원 -->
+  <audio id="bg-music" src="static/audio/fast_beat.mp3" loop></audio>
+  <script>
+    const bgMusic = document.getElementById('bg-music');
+    // 이전 페이지 저장된 재생 위치 복원
+    const savedTime = sessionStorage.getItem('bgMusicTime');
+    if (savedTime) bgMusic.currentTime = parseFloat(savedTime);
+    bgMusic.muted = false;
+    bgMusic.volume = 0.5;
+    bgMusic.play().catch(e => {
+      console.warn('bgMusic play error:', e);
+      // 유저 상호작용 후 재생 시도
+      document.body.addEventListener('click', () => {
+        bgMusic.play().catch(err => console.error('재생 실패:', err));
+      }, { once: true });
+    });
+    // 재생 위치 주기적 저장
+    setInterval(() => sessionStorage.setItem('bgMusicTime', bgMusic.currentTime), 1000);
+  </script>
+  <h1>결과 보기</h1>
+  <img id="aged" alt="Aged face" width="320" height="240" class="mb-3" />
+  <h2 id="mbti"></h2>
+  <p id="personality"></p>
+  <p><strong>Ideal Spouse:</strong> <span id="spouse"></span></p>
+  <p><strong>Famous Person:</strong> <span id="celebrity"></span></p>
+  <button id="reset" class="btn btn-secondary mt-3">다시 시작</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
