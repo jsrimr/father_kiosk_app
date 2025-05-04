@@ -2,6 +2,7 @@
   const isResult = location.pathname.includes('result.html');
 
   if (!isResult) {
+    const faceDetector = ('FaceDetector' in window) ? new FaceDetector({ fastMode: true, maxDetectedFaces: 1 }) : null;
     const video = document.getElementById('video');
     const btn = document.getElementById('capture-btn');
 
@@ -42,7 +43,47 @@
       const canvas = document.getElementById('canvas');
       canvas.style.display = 'block';
       const ctx = canvas.getContext('2d');
-      ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+      if (faceDetector) {
+        try {
+          const faces = await faceDetector.detect(video);
+          if (faces.length > 0) {
+            const { x: left, y: top, width, height } = faces[0].boundingBox;
+            // 캔버스 크기 얼굴 영역에 padding 적용 및 최소 해상도 보장
+            const MIN_W = 640;
+            const MIN_H = 480;
+            // 얼굴 영역에 20% padding 추가
+            const padRatio = 0.2;
+            const padX = width * padRatio;
+            const padY = height * padRatio;
+            // source 좌표 계산
+            let sx = Math.max(0, left - padX);
+            let sy = Math.max(0, top - padY);
+            let sw = width + padX * 2;
+            let sh = height + padY * 2;
+            // 비디오 크기 한계 내로 조정
+            const vidW = video.videoWidth;
+            const vidH = video.videoHeight;
+            if (sx + sw > vidW) sw = vidW - sx;
+            if (sy + sh > vidH) sh = vidH - sy;
+            // 타겟 크기 결정
+            const targetW = Math.max(sw, MIN_W);
+            const targetH = Math.max(sh, MIN_H);
+            canvas.width = targetW;
+            canvas.height = targetH;
+            // 확대하여 그리기
+            ctx.drawImage(video, sx, sy, sw, sh, 0, 0, targetW, targetH);
+          } else {
+            // 얼굴 미검출 시 전체를 캡처
+            ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+          }
+        } catch (e) {
+          console.warn('FaceDetector 오류, 전체 영역 캡처:', e);
+          ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+        }
+      } else {
+        // FaceDetector 미지원 시 전체 영역 캡처
+        ctx.drawImage(video, 0, 0, canvas.width, canvas.height);
+      }
       video.srcObject.getTracks().forEach(track => track.stop());
 
       const image = canvas.toDataURL('image/jpeg');
